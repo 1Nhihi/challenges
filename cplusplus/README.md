@@ -1,6 +1,7 @@
 # cplusplus
 - Challenge name: cplusplus
 - Given file: [cplusplus](./cplusplus) và [output.txt](./output.txt)
+  
 chạy thử chương trình thì thấy chạy hoài chạy hoài mà không dừng thì thế nên nhảy vào IDA check thử
 
 Đọc code thì hiểu đơn giản là chương trình random 2 số bất kì rồi chạy qua 3 hàm và in ra kết quả 
