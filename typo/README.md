@@ -1,6 +1,6 @@
 # typo
 - Challenge name: Typo
-- Given file: mian.py và output.txt
+- Given file: [./mian.py](./mian.py) và [./output.txt](./output.txt)
 
   đọc `mian.py` thì mình viết được
   [script](./script.py)
