@@ -41,6 +41,6 @@ for i in range( 0xff):
 # 816696039 237 41
 ```
 
-có được 2 số random là 237 và 41 và ouput rồi thì mình tiếp lục brute force các ký tự 1 lần nữa và có được script là [script](./script.t)
+có được 2 số random là 237 và 41 và ouput rồi thì mình tiếp lục brute force các ký tự 1 lần nữa và có được script là [script](./script.py)
 
 > 🚩: `amateursCTF{r/programminghorror/comments/18x7vk9/}`
